@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 st.set_page_config(
-    page_title="YKTI RAWAT",
+    page_title="SAHIL KHAN",
     page_icon="🦂",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -577,4 +577,4 @@ if is_run:
     time.sleep(3)
     st.rerun()
 
-st.markdown('<div class="ftr">MADE WITH ❤ BY YKTI RAWAT &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; PREMIUM E2EE SYSTEM</div>', unsafe_allow_html=True)
+st.markdown('<div class="ftr">MADE WITH ❤ BY SAHIL KHAN &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; PREMIUM E2EE SYSTEM</div>', unsafe_allow_html=True)
